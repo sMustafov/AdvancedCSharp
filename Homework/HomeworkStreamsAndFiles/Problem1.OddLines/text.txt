@@ -1,0 +1,6 @@
+asdfghjkl
+OddLine = 123456789
+qwerty
+OddLine = 987654321
+zxcvbnm
+OddLine = ,./'\[];
